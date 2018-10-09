@@ -39,7 +39,7 @@ end
 
 
 describe 'crazy stuff on arrays' do
-  # The magic_array function takes an array of number or an array of
+  # The magic_array functi[1, 2, 3, 4, 5, 6, 7 , 8, 9, 10]on takes an array of number or an array of
   # array of number as parameter and return the same array :
   # - flattened (i.e. no more arrays in array)
   # - sorted
